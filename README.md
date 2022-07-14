@@ -4,7 +4,7 @@
 
 **Author:** RatherGood1
 
-[![RGDoorLocks](media/MMOKITModDoorLocks.png)](https://youtu.be/67cGFSlzw0U)
+[![RGDoorLocks](Media/MMOKITModDoorLocks.png)](https://youtu.be/67cGFSlzw0U)
 
 
 **Description:** 
